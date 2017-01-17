@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="Ejercicio1.Vistas.MiPrimeraAxml">
+  <StackLayout Padding ="40" Spacing="10">
+    <Label Text="Esto es una etiquetaza"></Label>
+    <Entry Placeholder="Es es un input"></Entry>
+  </StackLayout>
+</ContentPage>
